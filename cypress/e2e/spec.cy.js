@@ -1,6 +1,7 @@
 describe('template spec', () => {
     it('passes for matching screenshot', () => {
         cy.visit('https://example.cypress.io')
+
         cy.matchImage({screenshotConfig: {capture: 'viewport'}});
     })
 
