@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "cypress": "13.7.2",
+    "@frsource/cypress-plugin-visual-regression-diff": "3.3.10"
+  }
+}
