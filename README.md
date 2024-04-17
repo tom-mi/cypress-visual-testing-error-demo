@@ -10,9 +10,13 @@ npx cypress open
 ```
 -> run E2E tests in electron - one succeeds, one fails.
 
+![ok](ok.png)
+
 Then upgrade to Cypress 13.7.3:
 ```
 npm install cypress@13.7.3
 npx cypress open
 ```
 -> run E2E tests in electron - one succeeds, the other one gets stuck indefinitely.
+
+![broken](broken.png)
