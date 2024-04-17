@@ -2,6 +2,8 @@
 
 This small demo illustrates a problem with the [@frsource/cypress-plugin-visual-regression-diff](https://github.com/FRSOURCE/cypress-plugin-visual-regression-diff) plugin together with Cypress 13.7.3.
 
+-> https://github.com/cypress-io/cypress/issues/29350
+
 ## Steps to reproduce
 
 ```
